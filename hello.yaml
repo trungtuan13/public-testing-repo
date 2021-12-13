@@ -10,6 +10,8 @@ info:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
 host: "petstore.swagger.io"
+x-samples-enabled: true,
+x-samples-languages: ["curl", "node", "ruby", "javascript", "python","go","c"]
 basePath: "/v2"
 tags:
 - name: "pet"
